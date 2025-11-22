@@ -1,6 +1,12 @@
 # **IMU Coordinated Bot**
-![Circuit Diagram](Circuit_diagram.png)
+
 # 🤖 Zero-Speed Heading Lock Mode (Yaw Stabilization)
+
+## Physical Demonatsration
+![Demo](headlock_mode.gif)
+
+## Circuit Diagram
+![Circuit Diagram](Circuit_diagram.png)
 
 ## 🎯 Project Overview
 
